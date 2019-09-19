@@ -8,7 +8,8 @@ venue: 'Physics of Plasmas'
 paperurl: 'https://aip.scitation.org/doi/full/10.1063/1.4985302'
 citation: 'P. Montag, J. Egedal, E. Lichko, and B. A. Wetherton. Impact of compressibility and a guide field on Fermi acceleration during magnetic island coalescence. Physics of Plasmas. 2017.'
 ---
-
+{% comment %}    
 #[Download paper here](https://aip.scitation.org/doi/full/10.1063/1.4985302)
 
 Recommended citation: P. Montag, J. Egedal, E. Lichko, and B. A. Wetherton. Impact of compressibility and a guide field on Fermi acceleration during magnetic island coalescence. Physics of Plasmas. 2017.
+{% endcomment %}    
