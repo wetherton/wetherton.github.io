@@ -1,7 +1,7 @@
 ---
 title: "Spacecraft Observations and Analytic Theory of Crescent-Shaped Electron Distributions in Asymmetric Magnetic Reconnection"
 collection: publications
-permalink: /publication/2016-10-28-Spacecraft-Observations-and-Analytic-Theory-of-Crescent-Shaped.md
+permalink: /publication/2016-10-28-Spacecraft-Observations-and-Analytic-Theory-of-Crescent-Shaped
 excerpt: 'Supported by a kinetic simulation, we derive an exclusion energy parameter EX providing a lower kinetic energy bound for an electron to cross from one inflow region to the other during magnetic reconnection. As by a Maxwell demon, only high-energy electrons are permitted to cross the inner reconnection region, setting the electron distribution function observed along the low-density side separatrix during asymmetric reconnection. The analytic model accounts for the two distinct flavors of crescent-shaped electron distributions observed by spacecraft in a thin boundary layer along the low-density separatrix.'
 date: 2016-10-28
 venue: 'Physical Review Letters'
