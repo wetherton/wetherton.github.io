@@ -9,6 +9,6 @@ paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL083119
 citation: 'B. A. Wetherton, J. Egedal, A. Le, and W. Daughton. Validation of anisotropic electron fluid closure through in situ spacecraft observations of magnetic reconnection. Geophysical Research Letters. 2019. '
 ---
 
-[Download paper here](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL083119)
+#[Download paper here](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL083119)
 
 Recommended citation: B. A. Wetherton, J. Egedal, A. Le, and W. Daughton. Validation of anisotropic electron fluid closure through in situ spacecraft observations of magnetic reconnection. Geophysical Research Letters. 2019. 
