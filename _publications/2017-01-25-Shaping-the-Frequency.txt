@@ -1,0 +1,11 @@
+---
+title: "Shaping the Frequency Response of Electromechanical Resonators Using a Signal Interference Control Topology"
+collection: publications
+permalink: /publication/2017-01-25-Shaping-the-Frequency
+excerpt: 'The recent study of signal interference circuits, which find its origins in earlier work related to active channelized filters, has introduced new methods for shaping the frequency response of electrical systems. This paper seeks to extend this thread of research by investigating the frequency response shaping of electromechanical resonators which are embedded in feedforward, signal interference control architectures. In particular, mathematical models are developed to explore the behavior of linear resonators that are embedded in two prototypical signal interference control topologies, which can exhibit a variety of qualitatively distinct frequency domain behaviors with component-level tuning. Experimental approaches are then used to demonstrate the proposed designs' utility.'
+date: 2017-01-25
+venue: 'Journal of Dynamic Systems, Measurement, and Control'
+paperurl: 'https://asmedigitalcollection.asme.org/dynamicsystems/article/139/3/031011/384349/Shaping-the-Frequency-Response-of'
+citation: 'B. A. Geesey, B. A. Wetherton, N. Bajaj, and J. F. Rhoads. A tunable signal interference control topology for sensing and signal processing based upon electromechanical resonators. Journal of Dynamic Systems, Measurement, and Control. 2017.'
+---
+The recent study of signal interference circuits, which find its origins in earlier work related to active channelized filters, has introduced new methods for shaping the frequency response of electrical systems. This paper seeks to extend this thread of research by investigating the frequency response shaping of electromechanical resonators which are embedded in feedforward, signal interference control architectures. In particular, mathematical models are developed to explore the behavior of linear resonators that are embedded in two prototypical signal interference control topologies, which can exhibit a variety of qualitatively distinct frequency domain behaviors with component-level tuning. Experimental approaches are then used to demonstrate the proposed designs' utility.

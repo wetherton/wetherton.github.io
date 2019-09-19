@@ -8,10 +8,5 @@ venue: 'Physical Review Letters'
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.185101'
 citation: 'J. Egedal, A. Le, W. Daughton, B. A. Wetherton, P. A. Cassak, L.-J. Chen, B. Lavraud, R. B. Torbert, J. Dorelli, D. J. Gershman, and L. A. Avanov. Spacecraft observations and analytic theory of crescent-shaped electron distributions in asymmetric magnetic reconnection. Physical Review Letters. 2016.'
 ---
-{% comment %}    
 Supported by a kinetic simulation, we derive an exclusion energy parameter EX providing a lower kinetic energy bound for an electron to cross from one inflow region to the other during magnetic reconnection. As by a Maxwell demon, only high-energy electrons are permitted to cross the inner reconnection region, setting the electron distribution function observed along the low-density side separatrix during asymmetric reconnection. The analytic model accounts for the two distinct flavors of crescent-shaped electron distributions observed by spacecraft in a thin boundary layer along the low-density separatrix.
-
-#[Download paper here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.185101)
-
-Recommended citation: J. Egedal, A. Le, W. Daughton, B. A. Wetherton, P. A. Cassak, L.-J. Chen, B. Lavraud, R. B. Torbert, J. Dorelli, D. J. Gershman, and L. A. Avanov. Spacecraft observations and analytic theory of crescent-shaped electron distributions in asymmetric magnetic reconnection. Physical Review Letters. 2016.
-{% endcomment %}    
+  
