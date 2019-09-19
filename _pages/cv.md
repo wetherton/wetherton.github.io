@@ -22,13 +22,13 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+{% comment %}
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+{% endcomment %}  
 Research Experience
 ======
 * Thesis Research: University of Wisconsin (June 2015-Present)
@@ -57,13 +57,13 @@ Research Experience
 * Summer Undergraduate Research Fellow: Purdue University (Summer 2013)
   * Designed and recorded demonstration videos in engineering mechanics for the Visualizing Mechanics series, publicly available on YouTube: https://www.youtube.com/channel/UCqu6LULiJLjMqyTpPAlAhNg
   * Advised by Jeff Rhoads and Charles Krousgrill
- 
+{% comment %}   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+{% endcomment %}    
 Work Experience
 ======
 * Purdue University Department of Physics: Undergraduate Teaching Assistant (August 2012-December 2013)
@@ -94,5 +94,5 @@ Extracurricular Activities
 ======
 * University of Wisconsin Men's Water Polo Club (2016-Present)
 * Purdue University Men's Water Polo Club (2011-2015)
-  *Treasurer (2012-2015)
-  *Community Service Officer (2011-2012)
+  * Treasurer (2012-2015)
+  * Community Service Officer (2011-2012)
