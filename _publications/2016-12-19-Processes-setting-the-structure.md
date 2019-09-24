@@ -6,6 +6,6 @@ excerpt: "In situ spacecraft observations within the exhausts of magnetic reconn
 date: 2016-12-19
 venue: 'Physics of Plasmas'
 paperurl: 'https://aip.scitation.org/doi/10.1063/1.4972135'
-citation: 'J. Egedal, B. A. Wetherton, W. Daughton, and A. Le. Processes setting the structure of the electron distribution function within the exhausts of anti-parallel reconnection. Physics of Plasmas. 2016.'
+citation: 'J. Egedal, <b>B. A. Wetherton</b>, W. Daughton, and A. Le. Processes setting the structure of the electron distribution function within the exhausts of anti-parallel reconnection. Physics of Plasmas. 2016.'
 ---
 In situ spacecraft observations within the exhausts of magnetic reconnection document a large variation in the velocity space structure of the electron distribution function. Multiple mechanisms help govern the underlying electron dynamics, yielding a range of signatures for collisionless reconnection. These signatures include passing beams of electrons separated by well-defined boundaries from betatron heated/cooled trapped electrons. The present study emphasizes how localized regions of non-adiabatic electron dynamics can mix electrons across the trapped/passing boundaries and impact the form of the electron distributions in the full width of the exhaust. While our study is based on 2D simulations, the described principles shaping the velocity space distributions also apply to 3D geometries making our findings relevant to spacecraft observation of reconnection in the Earth's magnetosphere.
