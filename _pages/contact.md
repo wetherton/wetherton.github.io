@@ -22,4 +22,4 @@ author_profile: true
 
 ### Email
 
-<img src="/images/email.png" alt="email" width="auto" height="20">
+<img src="/images/email.png" alt="email" width="auto" height="5">
