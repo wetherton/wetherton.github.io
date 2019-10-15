@@ -22,4 +22,4 @@ author_profile: true
 
 ### Email
 
-![LaTeX email]("/images/email.png")
+<img src="/images/email.png" alt="email">
