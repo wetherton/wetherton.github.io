@@ -78,7 +78,7 @@ Work Experience
 
 Scholarships and Awards
 ======
-* Department of Energy Computational Science Graduate Fellow (2016-Present)
+* Department of Energy <a href="https://www.krellinst.org/csgf/">Computational Science Graduate Fellow</a> (2016-Present)
 * National Science Foundation Graduate Research Fellow Program Honorable Mention (2016)
 * Van Vleck Fellowship (2015-2016)
 * Huber Fellowship (2015-2016)
@@ -86,8 +86,8 @@ Scholarships and Awards
 * James Perrella Scholarship (2013-2014)
 * Dean's Engineering Merit Scholarship (2013-2014)
 * Trustees' Scholarship (2011-2015)
-* 2nd Place in Road Rumble Challenge at Construction Challenge Nationals (2011)
-* 3rd Place in H2 Oh Yeah! Challenge at Construction Challenge Nationals (2011)
+* <a href="https://www.forconstructionpros.com/business/business-services/training-education/article/10245738/construction-challenge-teen-competition-winners">2nd Place</a> in <a href="https://www.youtube.com/watch?v=PO0NOTQCYP4">Road Rumble Challenge</a> at Construction Challenge Nationals (2011)
+* <a href="https://www.forconstructionpros.com/business/business-services/training-education/article/10245738/construction-challenge-teen-competition-winners">3rd Place</a> in H2 Oh Yeah! Challenge at Construction Challenge Nationals (2011)
 
   
 Extracurricular Activities
