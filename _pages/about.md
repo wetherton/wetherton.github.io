@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Plasma Physics at the University of Wisconsin-Madison, and a Department of Energy Computational Science Graduate Fellow. My research is in plasma theory and computation with a focus on magnetic reconnection.
+I am a PhD candidate in Plasma Physics at the University of Wisconsin-Madison, and a <a href="https://www.krellinst.org/csgf/">Department of Energy Computational Science Graduate Fellow</a>. My research is in plasma theory and computation with a focus on magnetic reconnection.
 
 I've taken more courses than anyone ought. The graduate-level ones are listed <a href="/courses/">here</a>.
