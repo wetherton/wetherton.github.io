@@ -55,7 +55,7 @@ Research Experience
   * Advised by Jeff Rhoads
   
 * Summer Undergraduate Research Fellow: Purdue University (Summer 2013)
-  * Designed and recorded demonstration videos in engineering mechanics for the Visualizing Mechanics series, publicly available on YouTube: https://www.youtube.com/channel/UCqu6LULiJLjMqyTpPAlAhNg
+  * Designed and recorded demonstration videos in engineering mechanics for the Visualizing Mechanics series, publicly available on <a href="https://www.youtube.com/channel/UCqu6LULiJLjMqyTpPAlAhNg">YouTube</a>
   * Advised by Jeff Rhoads and Charles Krousgrill
 {% comment %}   
 Teaching
