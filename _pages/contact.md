@@ -6,10 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
+=================
 
-## Contact Information
-
-### Blake Alastair Wetherton
+## Blake Alastair Wetherton
 
 ### Mailing Address
 
@@ -23,4 +22,4 @@ author_profile: true
 
 ### Email
 
-![alt text](/images/email "LaTeX email")
+![LaTeX email]("/images/email")
