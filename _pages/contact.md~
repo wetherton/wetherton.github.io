@@ -1,0 +1,21 @@
+---
+layout: archive
+title: "Contact"
+permalink: /contact/
+author_profile: true
+---
+
+{% include base_path %}
+
+Contact Information
+
+Blake Alastair Wetherton
+
+Mailing Address
+
+4274 Chamberlin Hall
+1150 University Avenue
+Madison, WI 53706
+
+Email
+
