@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Contact"
+title: "Contact Information"
 permalink: /contact/
 author_profile: true
 ---
 
 {% include base_path %}
-=================
+----
 
 ## Blake Alastair Wetherton
 
@@ -22,4 +22,4 @@ author_profile: true
 
 ### Email
 
-![LaTeX email]("/images/email")
+![LaTeX email]("/images/email.png")
