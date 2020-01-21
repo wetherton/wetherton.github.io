@@ -11,7 +11,7 @@ Magnetic reconnection is the process by which magnetic energy is converted to pa
 
 Computational simulation is vital to understanding magnetic reconnection, as it complements experimental observation with superior data resolution and access to a larger region of parameter space. For magnetic reconnection, the kinetic models required to capture full electron and ion dynamics necessitate the use of high performance computing, as billions of particles regularly cross over domains and constant communication is needed between cores. My research goal is to use VPIC fully-kinetic simulations to model collisionless magneticreconnection and elucidate its underlying dynamics.
 
-An overview of my research for a general audience can be found <a href="https://krellinst.org/csgf/fellows/fellow-reflections/blake-wetherton">here</a>.
+An overview of my research for a general audience can be found <a href="https://www.krellinst.org/csgf/fellows/fellow-reflections/blake-wetherton">here</a>.
 
 [//]: # (<figure>)
 [//]: # (    <img src="/images/magnetosphere-diagram.png")
