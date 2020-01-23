@@ -47,6 +47,7 @@ Mathematics
 * MATH 821: Advanced Topics in Real Analysis (More PDEs)
 * MATH 51000: Vector Calculus
 * MATH 51100: Linear Algebra
+
 At Purdue, I made the mistake of assuming a course being graduate level implied some novelty. Those two math courses were a complete waste of time. 
 
 Computer Science
