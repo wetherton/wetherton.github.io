@@ -39,6 +39,7 @@ Mathematics
 ======
 * MATH 714: Methods of Computational Math I
 * MATH 715: Methods of Computational Math II
+* MATH 716: Ordinary Differential Equations
 * MATH 722: Complex Analysis
 * MATH 751: Introductory Topology I
 * MATH 819: Partial Differential Equations I
