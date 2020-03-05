@@ -18,6 +18,6 @@ My research focuses on collisionless plasma physics. Collisions function to main
 
 
 <figure>
-<img src="/images/sat.pdf" alt="satellite">
+<img src="/images/sat.png" alt="satellite">
 <figcaption>Illustration of how a single spacecraft sampling the electron distribution can be applied for characterizing the gradient in the gyrotropic electron distribution function. More electrons coming from a higher density region cause an increased phase space density of electrons traveling in the -y direction. This is also the cause of the diamagnetic drift. </figcaption>
 </figure>
