@@ -13,8 +13,11 @@ Computational simulation is vital to understanding magnetic reconnection, as it 
 
 An overview of my research for a general audience can be found <a href="https://www.krellinst.org/csgf/fellows/fellow-reflections/blake-wetherton">here</a>.
 
-[//]: # (<figure>)
-[//]: # (    <img src="/images/magnetosphere-diagram.png")
-[//]: # (         alt="Magnetosphere">)
-[//]: # (    <figcaption>Image Credit: NASA</figcaption>)
-[//]: # (</figure>)
+My research focuses on collisionless plasma physics. Collisions function to maintain isotropy in the velocity space distribution of a plasma component. In a magnetized collisionless plasma, this means that the dynamics parallel to the local magnetic field can become decoupled from those in the perpendicular plane, leading to anisotropic pressure tensors. This is important in the inflows of collisionless magnetic reconnection, and is the foundation of many of the projects I have worked on. When further nonideal processes are included, the two directions perpendicular to the local magnetic field can decouple. This is called agyrotropy, and it is often taken to be an indicator of particles demagnetizing. One of my favorite projects to date is the development of a drift-kinetic method for determining gradients in plasma properties based on local measurements of the velocity space distribution function. The work establishes a fundamental connection between gradients in plasma properties and agyrotropy in the distribution function. The figure below illustrates the basic principle of how this works, and I now have a draft out of the formal theory, which is based in drift-kinetics and applies vector calculus liberally to estimate gradients in arbitrary moments of the distribution function based on local measurements. That draft can be found <a href="https://arxiv.org/abs/2003.00198">here</a>. 
+
+
+
+<figure>
+<img src="/images/sat.pdf" alt="satellite">
+<figcaption>Illustration of how a single spacecraft sampling the electron distribution can be applied for characterizing the gradient in the gyrotropic electron distribution function. More electrons coming from a higher density region cause an increased phase space density of electrons traveling in the -y direction. This is also the cause of the diamagnetic drift. </figcaption>
+</figure>
