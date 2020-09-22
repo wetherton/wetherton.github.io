@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Blake Wetherton"
 title_separator          : "-"
 name                     : &name "Blake Wetherton"
-description              : &description "PhD Candidate at University of Wisconsin-Madison and CSGF fellow"
+description              : &description "Postdoctoral Research Associate at Los Alamos National Laboratory"
 url                      : https://wetherton.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wetherton.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Blake Wetherton"
   avatar           : "wetherton_blake_2016_5x7.jpg"
-  bio              : "PhD Candidate in Plasma Physics at the University of Wisconsin-Madison"
-  location         : "Madison, Wisconsin"
+  bio              : "Postdoctoral Research Associate at Los Alamos National Laboratory"
+  location         : "Los Alamos, New Mexico"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=2YlKuJUAAAAJ&hl=en&oi=ao"
