@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics, University of Wisconsin-Madison, 2020 (expected)
+* Ph.D in Physics, University of Wisconsin-Madison, 2020
   * Minors in Mathematics and Computer Sciences
-  * Thesis (Working Title): Magnetic Reconnection in the Age of the Magnetospheric Multiscale Mission
+  * Thesis: Magnetic Reconnection in the Age of the Magnetospheric Multiscale Mission
 * B.S. in Mechanical Engineering, Purdue University, 2015
   * Minors in Physics, Mathematics, and Economics 
 
@@ -31,7 +31,8 @@ Talks
 {% endcomment %}  
 Research Experience
 ======
-* Thesis Research: University of Wisconsin (June 2015-Present)
+* Postdoctoral Research Associate: Los Alamos National Laboratory (Sept 2020- Present)
+* Thesis Research: University of Wisconsin (June 2015-August 2020)
 	* Theoretical/computational plasma physics
 	* Simulating magnetic reconnection with fully-kinetic VPIC code
 	* Comparisons to MMS data
@@ -64,7 +65,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 {% endcomment %}    
-Work Experience
+Other Work Experience
 ======
 * Purdue University Department of Physics: Undergraduate Teaching Assistant (August 2012-December 2013)
   * Assisted in recitations and labs for Physics 272: Electricity and Magnetism
@@ -78,7 +79,7 @@ Work Experience
 
 Scholarships and Awards
 ======
-* Department of Energy <a href="https://www.krellinst.org/csgf/">Computational Science Graduate Fellow</a> (2016-Present)
+* Department of Energy <a href="https://www.krellinst.org/csgf/">Computational Science Graduate Fellow</a> (2016-2020)
 * National Science Foundation Graduate Research Fellow Program Honorable Mention (2016)
 * Van Vleck Fellowship (2015-2016)
 * Huber Fellowship (2015-2016)
@@ -92,7 +93,7 @@ Scholarships and Awards
   
 Extracurricular Activities
 ======
-* University of Wisconsin Men's Water Polo Club (2016-Present)
+* University of Wisconsin Men's Water Polo Club (2016-2020)
 * Purdue University Men's Water Polo Club (2011-2015)
   * Treasurer (2012-2015)
   * Community Service Officer (2011-2012)
